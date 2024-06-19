@@ -26,6 +26,9 @@ The first part is for parameter values calibration, the second for simply runnin
 
 (a Python version is also available: https://github.com/lucabrocca78/Soil-Moisture-Model-Python)
 
-# Main Reference for the model:
+-------------------------------------------
+
+# Main References
 Brocca, L., Melone, F., Moramarco, T. (2008). On the estimation of antecedent wetness conditions in rainfall-runoff modelling. Hydrological Processes, 22 (5), 629-642, doi:10.1002/hyp.6629. http://dx.doi.org/10.1002/hyp.6629
+
 Brocca, L., Camici, S., Melone, F., Moramarco, T., Martinez-Fernandez, J., Didon-Lescot, J.-F., Morbidelli, R. (2014). Improving the representation of soil moisture by using a semi-analytical infiltration model. Hydrological Processes, 28(4), 2103-2115, doi:10.1002/hyp.9766. http://dx.doi.org/10.1002/hyp.9766
