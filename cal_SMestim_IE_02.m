@@ -5,8 +5,8 @@ if nargin==1,X_ini=ones(6,1)*.5;end
      'MaxFunEvals',500,'TolFun',1E-4,'TolCon',3,'Largescale','off'),PTSM);
 X=convert_adim(RES);
 [SMsim]=SMestim_IE_02(PTSM,X,1,namefig);
-!del X_optGA.txt
-fid=fopen('X_optGA.txt','w');
+!del X_opt.txt
+fid=fopen('X_opt.txt','w');
 fprintf(fid,'%9.4f\n',X);
 fclose(fid);
 
